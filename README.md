@@ -1,3 +1,3 @@
 # android-code-snippets
 
-Fragmentos de código android con kotlin para reutilizar en futuros proyectos.
+Android code snippets with kotlin to reuse in future projects.
